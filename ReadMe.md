@@ -28,7 +28,7 @@ Boxicons: Ícones visuais
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/petit-tresor.git
+git clone https:(https://github.com/KleitonCarlosMabjaia/Petit-Tresor-Cosmetics.git)
 
 Acesse a pasta do projeto:
 
