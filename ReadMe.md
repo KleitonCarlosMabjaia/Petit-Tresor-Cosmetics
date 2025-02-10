@@ -38,9 +38,5 @@ Abra o arquivo index.html no navegador.
 
 
 
-📖 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo!
-
-Desenvolvido por [Seu Nome] 🌟
+Desenvolvido por Kleiton Mabjaia 🌟
 
