@@ -2,7 +2,7 @@ Petit Tresor Cosmetics
 
 Este é o repositório do site da Petit Tresor Cosmetics, uma loja online de cosméticos.
 
-✨ Funcionalidades
+ Funcionalidades
 
 Navegação responsiva
 
